@@ -1,0 +1,33 @@
+*{
+    font-family: 'Fauna One', serif;
+
+}
+#heading{
+    text-align: center;
+    font-family: 'Fauna One', serif;
+}
+
+.navbar-light .navbar-brand{
+    color: white;
+    font-size: 24px;
+    font-weight: 300;
+    font-family: 'Fauna One', serif;
+}
+
+#nav{
+    background-color: rgb(250, 130, 49);
+}
+
+.form-control{
+    width: 50%;
+}
+
+.card{
+    border-radius: 10px;
+    background-color: rgb(250, 130, 49);
+    color: aliceblue; 
+}
+
+.card-subtitle {
+    color: rgb(0, 2, 1);
+}
